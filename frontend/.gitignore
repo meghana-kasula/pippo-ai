@@ -1,0 +1,18 @@
+# Python virtual environments
+venv/
+backend/venv/
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Environment variables
+.env
+*.env
+
+# Next.js build files
+.next/
+
+# Python cache
+__pycache__/
+*.pyc
