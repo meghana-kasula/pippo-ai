@@ -27,6 +27,10 @@ Backend:
 * Python
 * OpenAI API
 
+## Architecture
+
+![Architecture](docs/architecture.png)
+
 ## Current Features
 
 * Multi-step onboarding flow
