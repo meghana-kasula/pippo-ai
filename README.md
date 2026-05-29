@@ -27,7 +27,7 @@ Backend:
 * Python
 * OpenAI API
 
-#Architecture
+## Architecture
 
 ![Architecture](docs/architecture.png)
 
