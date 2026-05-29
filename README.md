@@ -41,6 +41,26 @@ Backend:
 * Dashboard workspace structure
 * AI chat interface concepts
 * Study planning workspace
+<h2>Screenshots</h2>
+
+<h3>Onboarding</h3>
+<img src="screenshots/onboarding.png" width="500">
+
+<h3>Study Profile Setup</h3>
+<img src="screenshots/study-profile-setup.png" width="500">
+
+<h3>Dashboard</h3>
+<img src="screenshots/dashboard.png" width="500">
+
+<h3>Plan With Pippo</h3>
+<img src="screenshots/plan-with-pippo.png" width="500">
+
+<h3>Chat Interface</h3>
+<img src="screenshots/chat-interface.png" width="500">
+
+<h3>Focus Space</h3>
+<img src="screenshots/focus-space.png" width="500">
+
 
 ## Running Locally
 
